@@ -23,4 +23,4 @@ Test that you can see the listings
 
 Test that you can add a comment to that submission
 
-    ./add_comment_to_post.py
+    ./add_comment_to_submission.py
