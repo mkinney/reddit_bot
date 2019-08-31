@@ -13,6 +13,14 @@ Edit .env for your values
 
     source .env
 
-Test that you can create a simple posting
+Test that you can create a simple submission
 
-    ./new_post.py
+    ./new_submission.py
+
+Test that you can see the listings
+
+    ./list_submissions.py
+
+Test that you can add a comment to that submission
+
+    ./add_comment_to_post.py
